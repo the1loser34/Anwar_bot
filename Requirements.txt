@@ -1,0 +1,6 @@
+pandas
+requests
+pandas_ta
+matplotlib
+PyYAML
+python-telegram-bot==13.15
