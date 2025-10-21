@@ -1,0 +1,10 @@
+watchlist:
+  - symbol: BTCUSDT
+    source: binance
+    type: crypto
+  - symbol: ETHUSDT
+    source: binance
+    type: crypto
+  - symbol: XAUUSD
+    source: forex
+    type: gold
